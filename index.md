@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Micajah McGarity
 
 You can use the [editor on GitHub](https://github.com/mmcgarity/consulting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
